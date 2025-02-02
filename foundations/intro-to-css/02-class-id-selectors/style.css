@@ -1,0 +1,16 @@
+.pink{
+    background-color: rgba(255, 0, 0, 0.428);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+#second-div{
+    color: blue;
+    font-size: 36px;
+}
+.cooler{
+    font-size: 24px;
+}
+#fourth-div{
+    background-color: rgba(0, 128, 0, 0.449);
+    font-weight: bold;
+}
